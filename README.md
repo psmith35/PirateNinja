@@ -8,7 +8,7 @@ Pirate Ninja is a fun 1-player video game that allows players to select a diffic
 - Adjusting the Volume
 - Tossing Different Types of Items onto the Screen
 - Swiping at Items and Scoring Points
-- Losing Health
+- Losing Lives
 - Game Over Screen
 
 ## Tech Stack
@@ -19,7 +19,14 @@ Pirate Ninja is a fun 1-player video game that allows players to select a diffic
 
 ## Controls
 
-- Use the Mouse to select GUI options and swipe at items that get thrown onto the screen during the game.
+- Use the Mouse to select and adjust GUI options and swipe at items that get thrown onto the screen during the game.
+
+## Rules
+
+- Game Difficulty determines how often items get thrown onto the screen.
+- Swiping at skulls decreases your score, while swiping at any other thrown item increases it.
+- Players lose a life when any thrown item other than a skull falls off-screen without getting swiped at.
+- The game ends when a player loses all of their lives.
 
 ## Demo
 
