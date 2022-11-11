@@ -13,11 +13,11 @@ Pirate Ninja is a fun 1-player video game that allows players to select a diffic
 
 ## Tech Stack
 
-**Languages:** C#
+- **Languages:** C#
 
-**Software:** Unity (2019.4.11+), Git
+- **Software:** Unity (2019.4.11+), Git
 
-**Packages:** TextMesh Pro
+- **Packages:** TextMesh Pro
 
 ## Controls
 
