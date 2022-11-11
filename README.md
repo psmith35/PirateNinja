@@ -17,8 +17,6 @@ Pirate Ninja is a fun 1-player video game that allows players to select a diffic
 
 - **Software:** Unity (2019.4.11+), Git
 
-- **Packages:** TextMesh Pro
-
 ## Controls
 
 - Use the Mouse to select and adjust GUI options and swipe at items that get thrown onto the screen during the game.
